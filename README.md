@@ -4,3 +4,4 @@ This project is used to create, and start advertisment campaigns on voilk networ
 
 It's a work in progress, and needs updates
 
+## works with `node v14`
